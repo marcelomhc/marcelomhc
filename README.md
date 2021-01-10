@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 [![Linkedin: marcelomhc](https://img.shields.io/badge/-marcelomhc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelomhc/)](https://www.linkedin.com/in/marcelomhc/)
 [![GitHub Marcelo](https://img.shields.io/github/followers/marcelomhc?label=follow&style=social)](https://github.com/marcelomhc)
 [![GoodReads](https://www.goodreads.com/images/badge/badge1.jpg)](https://www.goodreads.com/marcelomhc)
-
-## 𝚂𝚝𝚊𝚝𝚜
+<!--
+## 📈 𝚂𝚝𝚊𝚝𝚜
 ![marcelomhc](https://github-readme-stats.vercel.app/api?username=marcelomhc&show_icons=true&hide=stars,issues)
+-->
