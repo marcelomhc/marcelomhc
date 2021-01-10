@@ -47,5 +47,6 @@ Here are some ideas to get you started:
 [![GoodReads](https://www.goodreads.com/images/badge/badge1.jpg)](https://www.goodreads.com/marcelomhc)
 <!--
 ## 📈 𝚂𝚝𝚊𝚝𝚜
-![marcelomhc](https://github-readme-stats.vercel.app/api?username=marcelomhc&show_icons=true&hide=stars,issues)
+![Stats](https://github-readme-stats.vercel.app/api?username=marcelomhc&show_icons=true&hide=stars,issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelomhc&layout=compact)
 -->
