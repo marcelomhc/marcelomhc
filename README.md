@@ -17,17 +17,17 @@ Here are some ideas to get you started:
 -->
 
 ## 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🧑‍💻 Backend Software Developer & Team Lead
-- 💼 Chapter Lead @ [Raisin](www.raisin.com)
-- 🌎 Born in Brazil 🇧🇷, currently based in Berlin 🇩🇪
+- 🧑‍💻 Engineering Lead & Software Engineer
+- 💼 Engineering Lead @ [Raisin](www.raisin.com)
+- 🌎 Based in Berlin 🇩🇪
 - 🎓 Bachelor of Computer Enginner & M.Eng. of Aeronautical Enginnering
 
-
+<!--
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔭 I’m currently working on [**Cards Against Agility**](https://github.com/marcelomhc/cards-against-agility)
 - 🌱 I’m currently learning [**Flutter**](https://flutter.dev/)
 - 📖 I'm currently reading *The 7 Habits of Highly Effective People*
-
+-->
 
 ## 🚀 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢 𝚂𝚝𝚊𝚌𝚔
 <img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
@@ -44,7 +44,6 @@ Here are some ideas to get you started:
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎
 [![Linkedin: marcelomhc](https://img.shields.io/badge/-marcelomhc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelomhc/)](https://www.linkedin.com/in/marcelomhc/)
 [![GitHub Marcelo](https://img.shields.io/github/followers/marcelomhc?label=follow&style=social)](https://github.com/marcelomhc)
-[![GoodReads](https://www.goodreads.com/images/badge/badge1.jpg)](https://www.goodreads.com/marcelomhc)
 <!--
 ## 📈 𝚂𝚝𝚊𝚝𝚜
 ![Stats](https://github-readme-stats.vercel.app/api?username=marcelomhc&show_icons=true&hide=stars,issues)
